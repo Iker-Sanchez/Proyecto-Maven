@@ -1,0 +1,36 @@
+# Archivos y carpetas generadas por Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# Configuración del IDE (IntelliJ IDEA, Eclipse, NetBeans)
+.idea/
+*.iml
+*.ipr
+*.iws
+*.swp
+*.swo
+*.bak
+*.tmp
+.classpath
+.project
+.settings/
+
+# Archivos de compilación Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de logs
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
